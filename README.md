@@ -1,3 +1,3 @@
 # Transfer-Learning-from-Global-to-Local-Mo-alloys
 
-##Currently being organized, will be uploaded soon.
+If you need the original dataset and model parameters, please contact us and we will send them to you via email.
